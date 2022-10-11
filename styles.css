@@ -1,0 +1,137 @@
+.address-and-name{
+    border: 2px solid;
+    padding: 10px;
+     margin: 20px;
+}
+
+.name{
+    position: absolute;
+    right: 40px;
+    top: 20px;
+    letter-spacing: 2px;
+}
+
+hr{
+    position: absolute;
+    width: 96%;
+    top: 8%;
+    line-height: 5px;
+    height: 10px;
+    background-color: #fff;
+    border-top: 5px dotted #000000;
+    border-bottom: none;
+}
+
+.address{
+    position: static;
+    margin: 60px 0px 0px 10px;
+    max-width: 50%;
+    left: 20px;
+    font-size: 30px;
+    letter-spacing: 3px;
+
+}
+
+.summary-and-projects-done{
+    color: #000000;
+    /*background-image: url("https://i.pinimg.com/originals/7a/fb/04/7afb0491c91b2f9e9aac56667c3be677.jpg");
+    background-position-y: 830px;
+    background-position-x: 200px;
+    background-size: 80%;*/
+    border: 2px solid;
+    margin: 20px;
+}
+
+.summary{
+    border: 1px solid;
+    font-size: 30px;
+    margin: 10px;
+}
+
+.projects-done{
+    border: 1px solid;
+    margin: 10px;
+}
+
+#title{
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+    margin-top: 45px;
+
+}
+
+.buttons{
+    display: flex;
+    margin: 1% 0% 0% 50% ;
+}
+
+.button-1{
+    left: 45%;
+    top:5%;
+    width: 60px;
+    height: 40px;
+    padding-top: 5px;
+    padding-right: 10px;
+}
+
+.button-2{
+    width: 45px;
+    height: 50px;
+    padding-left: 10px;
+
+}
+
+.work-experiance{
+    border: 2px solid;
+    padding: 30px;
+    margin: 20px;
+}
+
+.educational-background-and-certificates{
+    border: 2px solid;
+    margin: 20px;
+}
+
+.about-me{
+    border: 2px solid;
+    padding: 100px;
+    margin: 20px;
+}
+
+.ordered-list{
+    list-style: none;
+    line-height: 40px;
+    font-size: 30px;
+    letter-spacing: 2px;
+
+}
+
+.mail{
+    text-decoration: none;
+    color: #000000;
+}
+
+.mail:hover{
+    color: #8c8b8b;
+}
+
+.summary-paragraph{
+    padding: 0px 30px 10px 30px;
+    font-size: 32px;
+    text-align: center;
+}
+
+.educational-background-and-certificates-paragraph{
+    padding: 0px 40px 10px 45px;
+    font-size: 32px;
+    letter-spacing: 1px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.about-me-paragraph{
+    padding: 0px 30px 10px 30px;
+    font-size: 32px;
+    text-align: center;
+}
